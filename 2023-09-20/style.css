@@ -1,0 +1,13 @@
+.ufvElements {
+    float: left;
+    margin: 5px;
+}
+.ufvElements p {
+    text-align: center;
+    margin: 0
+}
+.ufvElements img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
